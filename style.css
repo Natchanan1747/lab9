@@ -24,7 +24,7 @@ h1, h2, h3 {
 }
 
 .user-item, .post-item {
-    background: #e3f2fd;
+    background: #fde3fb;
     padding: 10px;
     margin: 10px 0;
     border-radius: 5px;
@@ -32,7 +32,7 @@ h1, h2, h3 {
 
 .user-item a {
     text-decoration: none;
-    color: #007BFF;
+    color: #ff00bf;
     font-weight: bold;
 }
 
@@ -41,7 +41,7 @@ h1, h2, h3 {
 }
 
 button {
-    background: #007BFF;
+    background: #f821ff;
     color: white;
     border: none;
     padding: 10px 15px;
@@ -51,7 +51,7 @@ button {
 }
 
 button:hover {
-    background: #0056b3;
+    background: #bd00c4;
 }
 
 .comments {
@@ -62,7 +62,7 @@ button:hover {
 }
 
 .btn {
-    background-color: green; /* เปลี่ยนเป็นสีเขียว */
+    background-color: rgb(196, 0, 59); /* เปลี่ยนเป็นสีเขียว */
     color: white; /* เปลี่ยนสีตัวอักษรเป็นสีขาว */
     padding: 10px 20px;
     border: none;
@@ -71,7 +71,7 @@ button:hover {
 }
 
 .btn:hover {
-    background-color: darkgreen; /* สีเข้มขึ้นเมื่อชี้ */
+    background-color: rgb(119, 0, 36); /* สีเข้มขึ้นเมื่อชี้ */
 }
 
 .comments {
